@@ -20,13 +20,9 @@ copy 'http://127.0.0.1:5000/'.
 <img src="https://drive.google.com/uc?id=1RWtwoYi1U_NbwylxJiofeUZ1Q_eGFFL0" width="80%">
 </div>
 <div style="max-height:250px; max-width:300px; overflow: hidden">
-<img src="https://drive.google.com/uc?id=1BxQfWwQc2Vl3uOQfREJxwAsnJCpJBIFq" width="80%">
+<img src="https://drive.google.com/uc?id=1GHhGvh7APtuAcULsCp0NTYi9Xv63ozpj" width="80%">
 </div>
-<div style="max-height:250px; max-width:300px; overflow: hidden">
-<img src="https://drive.google.com/uc?id=16fBjNO8y5GbCNHQZcoQ_VG2GtUo2xZiC" width="80%">
-</div>
-<div style="max-height:250px; max-width:300px; overflow: hidden">
-<img src="https://drive.google.com/uc?id=1rxHVP4MCg6DHqCXc5prWJreCDxPS6zAl" width="80%">
+
 </div>
 <div style="max-height:250px; max-width:300px; overflow: hidden">
 <img src="https://drive.google.com/uc?id=1zvbY1WdSlGXrW9DNIHOiNkK-CJ0OrveZ" width="80%">
